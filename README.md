@@ -1,1 +1,1 @@
-# Slot
+# Slot Machine practise 
